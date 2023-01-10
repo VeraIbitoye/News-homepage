@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&family=Inter:wght@400;700;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.hero-img {
+  width: 100%;
+}
+.hero2 p {
+  color: hsl(233, 8%, 79%);
+}
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 40px;
+  overflow: auto;
+}
+
+p {
+  font-size: 15px;
+  color: hsl(233, 8%, 79%);
+}
+h3 {
+  color: hsl(36, 100%, 99%);
+}
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  color: hsl(236, 13%, 42%);
+}
+.nav-links {
+  display: flex;
+  align-items: center;
+}
+
+.nav-links a {
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+}
+.hero {
+  display: flex;
+}
+button {
+  background: hsl(5, 85%, 63%);
+  padding: 0.7rem;
+  border-style: none;
+  color: hsl(36, 100%, 99%);
+  margin-top: 20px;
+  width: 200px;
+}
+.hero22 {
+  display: flex;
+  flex-direction: column;
+}
+.hero1 h2 {
+  font-weight: 800;
+  font-size: 30px;
+}
+.hero-section {
+  display: flex;
+}
+.new-section {
+  background-color: hsl(240, 100%, 5%);
+  flex: 1;
+  margin-left: 20px;
+  padding: 20px;
+}
+.new-section h2 {
+  color: hsl(5, 85%, 63%);
+}
+.hero1-section {
+  flex: 2;
+}
+/* .hero1 {
+  flex: 1;
+} */
+.hero2 {
+  flex: 2;
+}
+.hero2 p {
+  color: hsl(236, 13%, 42%);
+}
+.new1 {
+  border-bottom: 1px solid hsl(236, 13%, 42%);
+  padding-bottom: 20px;
+  margin-top: 10px;
+}
+.new1 p {
+  margin-top: 10px;
+  color: hsl(233, 8%, 79%);
+}
+.new2 {
+  border-bottom: 1px solid hsl(236, 13%, 42%);
+  padding-bottom: 20px;
+  margin-top: 10px;
+}
+.new2 p {
+  margin-top: 10px;
+  color: hsl(233, 8%, 79%);
+}
+.new3 h3 {
+  margin-top: 25px;
+}
+.new3 p {
+  margin-top: 10px;
+  color: hsl(233, 8%, 79%);
+}
+/* h3 {
+  color: hsl(240, 100%, 5%);
+} */
+footer {
+  display: flex;
+}
+.top {
+  margin-top: 60px;
+}
+.st {
+  display: flex;
+}
+.nd {
+  display: flex;
+}
+.rd {
+  display: flex;
+}
+.top h3 {
+  font-size: 15px;
+  color: hsl(240, 100%, 5%);
+}
+.top img {
+  width: 50%;
+  height: 60%;
+}
+.first {
+  margin: 0 15px 0 10px;
+}
+.first h2 {
+  color: hsl(233, 8%, 79%);
+  margin-bottom: 10px;
+}
+.first h3 {
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+.first p {
+  width: 220px;
+}
